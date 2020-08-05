@@ -6,7 +6,7 @@ Este curso pretende dar el contexto general del uso de lenguajes de programació
 
 | Sesión | Tema          | Subtemas    |
 |--------|---------------|-------------|
-| 1      | [Presentación del Curso e Introducción](https://github.com/camiloyatet/Programacion_en_R/blob/master/Sesion1/Introduccion.pdf) | <ul><li> Socialización del Contenido Programático </li><li> Acuerdos </li> <li> Aplicaciones de R </li></ul> |
+| 1      | [Presentación del Curso e Introducción](https://github.com/camiloyatet/USA_BIg_Data/blob/master/Sesion1/Introduccion%20BigData.pdf) | <ul><li> Socialización del Contenido Programático </li><li> Acuerdos </li> <li> Big Data y Aplicaciones </li></ul> |
 
 ## Recursos
 * [Python](https://www.python.org/downloads/)
